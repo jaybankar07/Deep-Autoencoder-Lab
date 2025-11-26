@@ -86,5 +86,5 @@ Please download and place it inside the data/ folder.
 
 👨‍💻 Author
 
-Jay Bankar
+Jay Bankar <br>
 Deep Learning | AI Enthusiast
